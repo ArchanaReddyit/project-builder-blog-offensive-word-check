@@ -1,15 +1,10 @@
 package testing;
 
-/*Uncomment the below code to test your application
-
+/* Uncomment the below code to test your application
 import static org.junit.Assert.*;
-
 import java.time.LocalDate;
-
 import org.junit.Test;
-
 import model.Blog;
-
 public class TestBlog {
 	LocalDate ld = LocalDate.of(2005, 4, 9);
 	Blog blog = new Blog("Java","ProgrammingLanguage",ld);
